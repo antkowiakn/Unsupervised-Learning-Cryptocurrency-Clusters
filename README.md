@@ -1,4 +1,4 @@
-# Unsupervised-Learning Cryptocurrency Clusters  
+# Unsupervised Learning: Cryptocurrency Clusters  
 
 A prominent investment bank, is interested in offering a new cryptocurrency investment portfolio for its customers. The company, is lost in the vast universe of cryptocurrencies. They’ve asked to create a report that includes what cryptocurrencies are on the trading market and determine whether they can be grouped to create a classification system for this new investment.  
   
